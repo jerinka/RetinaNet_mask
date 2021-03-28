@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>14-with-mask.jpg</filename>
+	<path>/home/skycam/sample_projs/mask_Retina/RetinaNet_mask/keras-retinanet/maskdb/train/14-with-mask.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>184</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>61</ymin>
+			<xmax>134</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
