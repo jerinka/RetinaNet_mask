@@ -1,5 +1,5 @@
 # RetinaNet_mask
-RetinaNet detects faces with two class - 0)with mask 1)no mask
+RetinaNet detects two classes of face - 0)with mask 1)without mask
 
 ## Virtual env
 virtualenv venv3 --python=python3
