@@ -8,4 +8,12 @@ pip3 install jupyter notebook
 
 jupyter notebook
 
-Press shift+enter to execute and go to next cell
+Run RetinaMask.ipynb
+
+Press shift+enter to execute cells
+
+![Face with mask](mask.png)
+
+![No mask Face](nomask.png)
+
+
